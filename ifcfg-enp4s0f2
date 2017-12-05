@@ -1,0 +1,4 @@
+DEVICE=enp4s0f2
+HWADDR=00:90:f5:f4:8d:2f 
+ONBOOT=yes
+BRIDGE=br0
